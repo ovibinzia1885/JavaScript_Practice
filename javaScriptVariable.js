@@ -1,5 +1,6 @@
-// Variable= A container that store a value which can be changed during the execution of a program. In JavaScript, 
-// variables are declared using keywords like var, let, or const. For example:
+// Variables are containers for storing data values.
+
+// Variables must be identified with unique names.
 
 
 // Declaration let X;
@@ -13,9 +14,16 @@
 // console.log('my name is:', name);
 // console.log('the price is:', Price);
 
- LET x=34;
- console.log(x);
+//  LET x=34; JavaScript does not interpret LET or Let as the keyword let.
+//  console.log(x);
 // In this example, we declare three variables: age, name, and Price, and assign them values of different data types (number and string).
 // We then use console.log() to print the values of these variables to the console.
+
+
+// let firstname="Nazmul";
+// console.log(typeof firstname);
+
+let student =true;
+console.log(typeof student);
 
 
