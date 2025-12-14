@@ -1,0 +1,20 @@
+{
+  "name": "javascript_practice",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/ovibinzia1885/JavaScript_Practice#readme",
+  "bugs": {
+    "url": "https://github.com/ovibinzia1885/JavaScript_Practice/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ovibinzia1885/JavaScript_Practice.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "javaScriptVariable.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
